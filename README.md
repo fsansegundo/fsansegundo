@@ -9,7 +9,7 @@
 
 ### Teaching Stuff
 
-+ [Geogerba Constructions](https://www.geogebra.org/u/fernando.sansegundo)
++ [GeoGebra Constructions](https://www.geogebra.org/u/fernando.sansegundo)
 
 
 <!--
